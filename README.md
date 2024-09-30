@@ -1,6 +1,6 @@
 ### Introducing Myself 
 
-Hello, I'm Julie. I love helping people whether its by offering a hot cup of coffee or solving challenging data or software problems. I've build data pipelines in corporate and startup environments and learned to transform data for business use cases.  
+Hello, I'm Julie. I love helping people whether it's by offering a hot cup of coffee or solving challenging data or software problems. I've build data pipelines in corporate and startup environments and learned to transform data for business use cases.  
 
 <img width="400" height="250" alt="vecteezy_modern-minimalist-coffee-shop-interior-design-with_47153129" src="https://github.com/user-attachments/assets/d777a0c7-7a75-4163-9aaa-859e1afa0a64">
 
