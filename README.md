@@ -22,7 +22,7 @@ Hello, I'm Julie. I love helping people whether it's by offering a hot cup of co
   - SQL 50 on Leetcode 
 
 
-**Fun fact:** I thought computers were annoying slow as a kid until I learned how to program it. 
+**Fun Fact**: I acquired my taste for good coffee while working in tech and later worked as a barista for a few months.
 
 
 👋 **Connect with me:**
