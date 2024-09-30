@@ -1,8 +1,5 @@
 ### Introducing Myself 
 
-<kbd>
-<img width="900" alt="IMG_7130" src="https://github.com/user-attachments/assets/502b2269-ee81-47dc-b6b0-03a4a0583f8c">
-</kbd>
 
 Hello, I'm Julie. I love helping people and solving problems especially those that can be solved with some data or software engineering. I've build data pipelines in corporate and startup companies. 
 
