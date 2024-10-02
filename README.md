@@ -13,7 +13,7 @@ Hello, I'm Julie. I love helping people whether it's by offering a hot cup of co
 
 
 **Current Projects/Goal:**
-  - 8 week SQL Challenge
+  - Personal web app
   - Azure computing
   - Keep this portfolio up-to-date
 
